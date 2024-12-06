@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mymalleg](https://mymalleg.com)
 
-- 🌱 I’m currently learning **django rest framework**
+- 🌱 I’m currently learning **django rest framework** and **Frappe framework**
 
 - 💬 i am willing to work as **backend developer**
 
